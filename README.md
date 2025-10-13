@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Software Developer Engineer from Indore<br><br>- 🔭 I’m working as a Fullstack MERN Developer, currently developing a platform where users can create their portfolios.<br>- 📚 I'm currently learning Machine Learning and AWS.<br>- ⚡In my free time, I learn about AI/ML, REST development, and stay updated with new technology news.</p>
+<p align="left">I'm Software Developer Engineer<br><br>- 🔭 I’m working as a Fullstack MERN Developer, currently developing a platform where users can create their portfolios.<br>- 📚 I'm currently learning Machine Learning and AWS.<br>- ⚡In my free time, I learn about AI/ML, REST development, and stay updated with new technology news.</p>
 
 ###
 
