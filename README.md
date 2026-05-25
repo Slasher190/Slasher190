@@ -36,32 +36,58 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME — TERMINAL CARD                  -->
+<!--                    ABOUT ME — INFO GRID                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-```typescript
-// ~/Slasher190/about.ts
+<table>
+<tr>
+<td width="55%" valign="top">
 
-const sudhiRanjanGupta = {
-  role        : "Software Development Engineer · Fullstack",
-  location    : "India 🇮🇳",
-  currentWork : "Building Mindora — AI-powered EdTech platform",
-  focus       : ["Product Engineering", "AI/ML Integration", "Cloud Architecture"],
-  learning    : ["Machine Learning", "AWS Solutions Architecture", "LLM Engineering"],
-  stack       : {
-    languages : ["TypeScript", "JavaScript", "Python", "C++"],
-    frontend  : ["React", "Next.js", "TailwindCSS", "GraphQL"],
-    backend   : ["Node.js", "NestJS", "Express", "REST", "GraphQL"],
-    databases : ["PostgreSQL", "MongoDB", "Redis", "Prisma ORM"],
-    devops    : ["Docker", "AWS (ECS, RDS, S3, CloudFront)", "GitHub Actions", "Terraform"],
-    tools     : ["Figma", "Postman", "Linear", "Notion"],
-  },
-  funFact     : "I debug with console.log and I'm not ashamed.",
-  openTo      : ["Collaborations", "Open Source", "Freelance Projects"],
-};
+### 👤 &nbsp;Sudhi Ranjan Gupta
 
-export default sudhiRanjanGupta;
 ```
+Role      ›  Software Development Engineer
+Company   ›  Mindora (EdTech AI Platform)
+Location  ›  India 🇮🇳
+Status    ›  Open to collaborate & freelance
+```
+
+**What I'm focused on:**
+
+- 🚢 &nbsp;Shipping **Mindora** — AI-powered EdTech for India
+- 🤖 &nbsp;Integrating **LLMs** into real product workflows
+- ☁️ &nbsp;Learning **AWS Solutions Architecture** deeply
+- 🧠 &nbsp;Exploring **ML fundamentals** & fine-tuning
+
+**A bit more:**
+
+- 💬 &nbsp;Ask me about `TypeScript` · `NestJS` · `AWS` · `System Design`
+- 🤝 &nbsp;Open to: Collaborations · Open Source · Freelance
+- ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Slasher190/Slasher190/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Slasher190/Slasher190/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Slasher190/Slasher190/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+| | |
+|---|---|
+| 🏗️ &nbsp;**Building** | Mindora AI Platform |
+| 📚 &nbsp;**Learning** | AWS · ML · LLMs |
+| 🌐 &nbsp;**Stack** | MERN + NestJS + Cloud |
+| 📍 &nbsp;**Based** | India 🇮🇳 |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,12 +138,12 @@ export default sudhiRanjanGupta;
 <tr>
 <td valign="top" width="50%">
 
-![Sudhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slasher190&show_icons=true&count_private=true&hide_border=true&title_color=00FF9C&icon_color=64FFDA&text_color=cdd6f4&bg_color=0d1117&rank_icon=github&include_all_commits=true)
+![Sudhi's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Slasher190&show_icons=true&count_private=true&hide_border=true&title_color=00FF9C&icon_color=64FFDA&text_color=cdd6f4&bg_color=0d1117&rank_icon=github&include_all_commits=true)
 
 </td>
 <td valign="top" width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slasher190&layout=compact&hide_border=true&title_color=00FF9C&text_color=cdd6f4&bg_color=0d1117&langs_count=8&hide=html,css)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Slasher190&layout=compact&hide_border=true&title_color=00FF9C&text_color=cdd6f4&bg_color=0d1117&langs_count=8&hide=html,css)
 
 </td>
 </tr>
